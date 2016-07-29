@@ -111,7 +111,7 @@ BFC(Block formatting context)直译为"块级格式化上下文"。它是一个�
 高度出来了，并且布局原则是从上到下，从左到右。
 
 ###margin重叠问题
-什么是margin重叠？
+什么是margin重叠?
 当父元素，和子元素同时具有margin时，margin会进行重叠，重叠规则，
 
 
